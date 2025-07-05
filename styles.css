@@ -487,4 +487,15 @@ body {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     filter: drop-shadow(0 0 8px var(--glow-color));
-} 
+}
+
+.stat-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    transition: all 0.3s ease;
+}
+
+.stat-link:hover {
+    transform: translateY(-5px);
+}

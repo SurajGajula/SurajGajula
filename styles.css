@@ -499,3 +499,14 @@ body {
 .stat-link:hover {
     transform: translateY(-5px);
 }
+
+.tiktok-title-link {
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.3s ease;
+}
+
+.tiktok-title-link:hover {
+    color: var(--primary-color);
+    text-shadow: 0 0 20px var(--glow-color);
+}

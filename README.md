@@ -67,6 +67,3 @@ https://usemangostudio.com
 
 LinkedIn:
 https://linkedin.com/in/surajgajula
-
-Resume:
-(Add PDF later)
